@@ -195,7 +195,7 @@ var REMOTE_PACKAGE_SIZE = metadata['remote_package_size'];
     }
 
     }
-    loadPackage({"files": [{"filename": "/Data.rsdk", "start": 0, "end": 78711043}], "remote_package_size": 78711043});
+    loadPackage({"files": [{"filename": "https://files.catbox.moe/06jaxe.rsdk", "start": 0, "end": 78711043}], "remote_package_size": 78711043});
 
   })();
 
